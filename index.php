@@ -281,7 +281,7 @@ switch($job){
     echo "Pre tuto poziciu nemam ziadnu otazku";
     // Ak nieje ziana zhoda vypise toto tzv.default..TEXT echo : Pre tuto poziciu nemam ziadnu otazku
 
-    // Switch je lepsi nez if a else
+    // Switch je lepsi nez if a else //
 
 }
 
